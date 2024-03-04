@@ -8,7 +8,7 @@ The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
 [This is a Template](https://doi.org/10.1287/opre.2024.0000) by T. Ralphs. 
 The snapshot is based on 
-[this SHA](https://github.com/tkralphs/ORJournalTemplate/commit/) 
+[this SHA](https://github.com/tkralphs/ORJournalTemplate/commit/7588d8908e79fd1b30a933d3553ebf18bb906bb9) 
 in the development repository. 
 
 **Important: This code is being developed on an on-going basis at 
