@@ -82,7 +82,7 @@ make mult-test
 ```
 or
 ```
-python test.py mult
+python scripts/test.py mult
 ```
 To replicate the results in [Figure 2](results/sum-test.png), do either
 
@@ -91,7 +91,7 @@ make sum-test
 ```
 or
 ```
-python test.py sum
+python scripts/test.py sum
 ```
 
 ## Ongoing Development
