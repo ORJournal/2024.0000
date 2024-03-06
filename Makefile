@@ -12,7 +12,7 @@ INC_FLAGS := $(addprefix -I,$(INC_DIRS))
 
 SUM_TEST ?= false
 
-CPPFLAGS ?= $(INC_FLAGS) -O2 -pedantic-errors -Wall -Wextra -Werror -MMD -MP
+CPPFLAGS ?= $(INC_FLAGS) -g -pedantic-errors -Wall -Wextra -Werror -MMD -MP
 
 mult: $(OBJS)
 	@echo "Linking: $@"
