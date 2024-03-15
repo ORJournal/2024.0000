@@ -26,7 +26,7 @@ https://doi.org/10.1287/opre.2024.0000.cd
 Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
-@article{CacheTest,
+@misc{CacheTest,
   author =        {T. Ralphs},
   publisher =     {Operations Research},
   title =         {{CacheTest}},
