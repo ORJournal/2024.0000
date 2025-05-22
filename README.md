@@ -40,6 +40,18 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 The goal of this software is to demonstrate the effect of cache optimization.
 
+## Requirements
+
+### Hardware
+
+The experiments were done on a single thread running on an Intel Core i7-1360P
+CPU with 32Gb memory (8 Gb should be sufficient, though).
+
+### Software
+
+to build the software, a C++ compiler is needed. To build using the included
+makefile, a bash environment with `make` available is also required.
+
 ## Building
 
 In Linux, to build the version that multiplies all elements of a vector by a
